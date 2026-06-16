@@ -1,0 +1,71 @@
+[
+    {
+        "Name": "BossMod TC",
+        "InternalName": "BossModReborn",
+        "AssemblyVersion": "0.0.0.1",
+        "Author": "The Combat Reborn Team (TC localization)",
+        "Punchline": "繁體中文版 BossMod：副本雷達、機制提示、自動閃避與 CD 規劃",
+        "Description": "繁體中文版 BossMod（BossModReborn）：副本雷達、機制提示、自動閃避、自動連段與 CD 規劃工具。專為 TC（台港）客戶端打造，Dalamud API12。UI 與機制提示為手動繁中翻譯，Boss／技能／區域名走遊戲內建繁體中文。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "boss",
+            "dodge",
+            "mechanics",
+            "pve",
+            "raids",
+            "trials"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/BossModTC",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/BossModTC/releases/download/0.0.0.1/BossModReborn.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/BossModTC/releases/download/0.0.0.1/BossModReborn.zip"
+    },
+    {
+        "Name": "FCCH",
+        "InternalName": "FCCH",
+        "AssemblyVersion": "2.3.2.1",
+        "Author": "Nexai (TC build)",
+        "Punchline": "部隊寶物庫小幫手：自動存取、整理、水晶與工房材料",
+        "Description": "Free Company Chest Helper 的 TC（台港）版本。自動化部隊寶物庫的存入／取出、重複物品、整理（Organizer）、水晶、工房專案材料與自訂物品清單。針對 TC（API12）客戶端調整：修正開啟部隊寶物庫時的崩潰，介面全面繁體中文化。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "fc",
+            "chest",
+            "inventory",
+            "automation"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/FCCHTC",
+        "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/FCCHTC/releases/download/v2.3.2.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/FCCHTC/releases/download/v2.3.2.1/latest.zip"
+    },
+    {
+        "Name": "PingPlugin TC",
+        "InternalName": "PingPluginTC",
+        "AssemblyVersion": "2.11.2.0",
+        "Author": "karashiiro (TC build)",
+        "Punchline": "顯示即時延遲（Ping）的 Dalamud 外掛",
+        "Description": "在伺服器資訊列／懸浮窗顯示即時延遲與平均延遲，並提供延遲圖表。專為 TC（台港）客戶端與新加坡機房調整：改用 TCP 交握量測延遲（ICMP 被擋時仍可運作），修正延遲顯示 0ms 的問題。Dalamud API12，介面為繁體中文。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ping",
+            "monitor",
+            "utility",
+            "tool"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/PingPluginTC",
+        "IconUrl": "https://raw.githubusercontent.com/YukiDalamudPlugins/PingPluginTC/tc/Assets/icon.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip"
+    }
+]
