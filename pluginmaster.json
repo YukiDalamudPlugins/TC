@@ -67,5 +67,28 @@
         "IconUrl": "https://raw.githubusercontent.com/YukiDalamudPlugins/PingPluginTC/tc/Assets/icon.png",
         "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip"
+    },
+    {
+        "Name": "Character Sync TC",
+        "InternalName": "Dalamud.CharacterSyncTC",
+        "AssemblyVersion": "2.1.6.0",
+        "Author": "goat, AtmoOmen (TC build)",
+        "Punchline": "用你的主角色設定資料遊玩所有角色～",
+        "Description": "Character Sync 的 TC（台港）版本。在外掛設定介面選好主角色後，自動將主角色的遊戲設定資料（熱鍵列、巨集、按鍵、聊天、角色／鍵盤／手把設定、九宮幻卡等）同步至所有角色。針對 TC（API12）客戶端調整並全面繁體中文化；另提供「設為主角色並重啟」一鍵套用。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "character",
+            "sync",
+            "settings",
+            "hotbar",
+            "macro"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/CharacterSyncXTC",
+        "IconUrl": "https://raw.githubusercontent.com/YukiDalamudPlugins/CharacterSyncXTC/main/res/icon.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/CharacterSyncXTC/releases/download/v2.1.6.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/CharacterSyncXTC/releases/download/v2.1.6.0/latest.zip"
     }
 ]
