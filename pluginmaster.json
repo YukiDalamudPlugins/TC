@@ -2,7 +2,7 @@
     {
         "Name": "AutoDuty TC",
         "InternalName": "AutoDuty",
-        "AssemblyVersion": "0.0.228.1",
+        "AssemblyVersion": "0.0.228.2",
         "Author": "Herculezz (TC build)",
         "Punchline": "自動跑副本：親信、任務輔助、冒險者分隊與一般副本",
         "Description": "AutoDuty 的 TC（台港）版本。自動排本、走路徑、打王、撿寶箱、循環刷本，支援親信、任務輔助、冒險者分隊、多變迷宮與一般副本；並包含循環之間的自動修理、精製、分解、軍票上繳等。需要 BossMod、vnavmesh 與循環插件（Wrath Combo / BossMod AutoRotation / RSR）。基於 API12 最後版本（0.0.0.228），介面全面繁體中文化（採官方 zh-TW 語系並校訂台灣用語），並向下移植官方新版的多開協同（Multibox）功能。",
@@ -20,8 +20,8 @@
         "DalamudApiLevel": 12,
         "RepoUrl": "https://github.com/YukiDalamudPlugins/AutoDutyTC",
         "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
-        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/AutoDutyTC/releases/download/0.0.228.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/AutoDutyTC/releases/download/0.0.228.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/AutoDutyTC/releases/download/0.0.228.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/AutoDutyTC/releases/download/0.0.228.2/latest.zip"
     },
     {
         "Name": "BossMod TC",
